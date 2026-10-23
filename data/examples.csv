@@ -1,0 +1,13 @@
+﻿image_path,group_id,grade_text,grade_index,view,fold
+example_001/right.jpg,example_001,III,0,right,0
+example_001/left.jpg,example_001,III,0,left,0
+example_001/crown.jpg,example_001,III,0,crown,0
+example_002/right.jpg,example_002,III,0,right,1
+example_002/left.jpg,example_002,III,0,left,1
+example_002/crown.jpg,example_002,III,0,crown,1
+example_003/right.jpg,example_003,IV,1,right,0
+example_003/left.jpg,example_003,IV,1,left,0
+example_003/crown.jpg,example_003,IV,1,crown,0
+example_004/right.jpg,example_004,IV,1,right,1
+example_004/left.jpg,example_004,IV,1,left,1
+example_004/crown.jpg,example_004,IV,1,crown,1
